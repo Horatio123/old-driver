@@ -1,0 +1,180 @@
+{
+    "sites": [
+        {
+            "name": "changshan",
+            "position": [
+                120.303712,
+                30.185055
+            ],
+            "vedio_url": "https://www.ixigua.com/7310425271050437172?logTag=ba6cc18a9736177f461c",
+            "text": {
+                "content": "长山"
+            }
+        },
+        {
+            "name": "sanquanwangcun",
+            "position": [
+                120.285333,
+                30.057292
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7307857602430534155&logTag=2af38d313e721703442c",
+            "text": {
+                "content": "三泉王村"
+            }
+        },
+        {
+            "name": "zhishan",
+            "position": [
+                120.24643,
+                30.038342
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7307857602430534155&logTag=2af38d313e721703442c",
+            "text": {
+                "content": "峙山"
+            }
+        },
+        {
+            "name": "manjuelong",
+            "position": [
+                120.130322,
+                30.219415
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7306150733970309647&logTag=a5ecc9bfe4996446548a",
+            "text": {
+                "content": "满觉陇"
+            }
+        },
+        {
+            "name": "hupao",
+            "position": [
+                120.130095,
+                30.207505
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7306150733970309647&logTag=a5ecc9bfe4996446548a",
+            "text": {
+                "content": "虎跑"
+            }
+        },
+        {
+            "name": "manga_museum",
+            "position": [
+                120.205561,
+                30.162102
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7277208960833159717&logTag=d87378186a5410c1bf9f",
+            "text": {
+                "content": "中国动漫博物馆"
+            }
+        },
+        {
+            "name": "dongziguan",
+            "position": [
+                119.823281,
+                29.886982
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7247139285458125364&logTag=98830d52be6b6044ff95",
+            "text": {
+                "content": "东梓关"
+            }
+        },
+        {
+            "name": "xindeng",
+            "position": [
+                119.734529,
+                29.970503
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7245943354293387791&logTag=40addd20adad9deb5615",
+            "text": {
+                "content": "新登古城"
+            }
+        },
+        {
+            "name": "shiyanshan",
+            "position": [
+                120.225997,
+                30.124398
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7244550185055945216&logTag=15238b128255839a0b35",
+            "text": {
+                "content": "石岩山"
+            }
+        },
+        {
+            "name": "xianghushuijie",
+            "position": [
+                120.209226,
+                30.136615
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7313936122499826195&logTag=8345cdc79592c6ca53d4",
+            "text": {
+                "content": "湘湖水街"
+            }
+        },
+        {
+            "name": "wangyangminguli",
+            "position": [
+                120.575442,
+                30.008745
+            ],
+            "vedio_url": "https://www.ixigua.com/7316102700389794330?logTag=8c24cdaeea6f479d2817",
+            "text": {
+                "content": "王阳明故里"
+            }
+        },
+        {
+            "name": "shenxianlihuaxuechang",
+            "position": [
+                119.252165,
+                29.992639
+            ],
+            "vedio_url": "https://www.ixigua.com/7317635288539824679?logTag=581ff8ac33b7343b1dbe",
+            "text": {
+                "content": "生仙里滑雪场"
+            }
+        },
+        {
+            "name": "qiandaohudadao",
+            "position": [
+                119.130881,
+                29.698924
+            ],
+            "vedio_url": "https://www.ixigua.com/7320000428635226634?logTag=644f1cb031aedec0d16d",
+            "text": {
+                "content": "千岛湖大道"
+            }
+        },
+        {
+            "name": "zhedongyunhebowuguan",
+            "position": [
+                120.524403,
+                30.042112
+            ],
+            "vedio_url": "https://www.ixigua.com/7323207194294682121?logTag=2e640965b60c7ccc9ff1",
+            "text": {
+                "content": "浙东运河博物馆"
+            }
+        },
+        {
+            "name": "jishandao",
+            "position": [
+                121.369835,
+                28.104974
+            ],
+            "vedio_url": "https://www.ixigua.com/7321737350046974475?logTag=2cb57e99304b8ed617d7",
+            "text": {
+                "content": "鸡山岛"
+            }
+        },
+        {
+            "name": "yongheta",
+            "position": [
+                120.55957,
+                29.970267
+            ],
+            "vedio_url": "",
+            "text": {
+                "content": "永和塔"
+            }
+        }
+    ]
+}

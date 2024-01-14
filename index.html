@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/old-driver.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Old-Driver.tech</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      /* 设置 body 的最小高度为视口高度，以确保 footer 固定在底部 */
+      margin: 0;
+    }
+
+    main {
+      flex: 1;
+      /* main 占据剩余空间 */
+    }
+
+    footer {
+      height: 15px;
+      /* 固定 footer 的高度 */
+      background-color: #0b0b0b;
+    }
+
+    .container {
+      display: flex;
+      /* 使用 Flex 布局 */
+    }
+
+    .column {
+      flex: 1;
+      /* 让每一列平均占据可用空间 */
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <div id="app"></div>
+  </main>
+  <script type="module" src="/src/main.js"></script>
+  <footer>
+    <div class="container">
+      <div class="column">2022-2023 &copy; old-driver</div>
+      <div class="column">
+        <a href="https://beian.miit.gov.cn/" target="_blank" style="
+          float: left;
+          height: 20px;
+          line-height: 20px;
+          margin: 0px 0px 0px 5px;
+          color: #939393;
+        ">浙ICP备2022009972号-1</a>
+      </div>
+      <div class="column">
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010902003237" style="
+            display: inline-block;
+            text-decoration: none;
+            height: 20px;
+            line-height: 20px;
+          "><img src="/beian.png" style="float: left" />
+          <p style="
+              float: left;
+              height: 20px;
+              line-height: 20px;
+              margin: 0px 0px 0px 5px;
+              color: #939393;
+            ">
+            浙公网安备 33010902003237号
+          </p>
+        </a>
+      </div>
+      <div class="column">
+        <a href="https://www.ixigua.com/home/1213475154823263/?list_entrance=search" target="_blank" style="
+          float: left;
+          height: 20px;
+          line-height: 20px;
+          margin: 0px 0px 0px 5px;
+          color: #939393;
+        ">头条号：带猫瞎溜达</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
