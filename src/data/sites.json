@@ -171,9 +171,31 @@
                 120.55957,
                 29.970267
             ],
-            "vedio_url": "",
+            "vedio_url": "https://www.ixigua.com/7325435533574799887?logTag=4d4beac37cc6f7fc6cbb",
             "text": {
                 "content": "永和塔"
+            }
+        },
+        {
+            "name": "jiangsigongyuan",
+            "position": [
+                120.271444,
+                30.163299
+            ],
+            "vedio_url": "https://www.ixigua.com/7244550133080130059?id=7325439524622828067&logTag=612626e36ae79c607144",
+            "text": {
+                "content": "江寺公园"
+            }
+        },
+        {
+            "name": "deshougong",
+            "position": [
+                120.173566,
+                30.237849
+            ],
+            "vedio_url": "",
+            "text": {
+                "content": "德寿宫"
             }
         }
     ]
