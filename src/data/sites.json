@@ -197,6 +197,139 @@
             "text": {
                 "content": "德寿宫"
             }
+        },
+        {
+            "name": "jaingnantongwu",
+            "position": [
+                120.167152,
+                30.23968
+            ],
+            "vedio_url": "https://www.ixigua.com/7331774340905566757?logTag=1cd7121e696c7b65108e",
+            "text": {
+                "content": "江南铜屋"
+            }
+        },
+        {
+            "name": "hengyang",
+            "position": [
+                112.622856,
+                26.879897            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337335556743496232?logTag=75b23c570500d97bbdc8",
+            "text": {
+                "content": "衡阳市区"
+            }
+        },
+        {
+            "name": "linglinggucheng",
+            "position": [
+                111.605689,
+                26.214372            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7337874401062945315&logTag=8e0f714f66cee3cb7f63",
+            "text": {
+                "content": "零陵古城"
+            }
+        },
+        {
+            "name": "guilinshangshui-shiqu",
+            "position": [
+                110.297564,
+                25.26091            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7337874401062945315&logTag=8e0f714f66cee3cb7f63",
+            "text": {
+                "content": "桂林山水-市区"
+            }
+        },
+        {
+            "name": "guilinshangshui-yangshuo",
+            "position": [
+                110.432669,
+                25.147452           
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7341775470498677275&logTag=fc7746f4daa825c36f03",
+            "text": {
+                "content": "桂林山水-阳朔"
+            }
+        },
+        {
+            "name": "beihai-yintan",
+            "position": [
+                109.144913,
+                21.406567            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7341978327877583395&logTag=047ed8f4231fb74f4e3c",
+            "text": {
+                "content": "北海银滩"
+            }
+        },
+        {
+            "name": "beihai-laocheng",
+            "position": [
+                109.115918,
+                21.483575            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7341978327877583395&logTag=047ed8f4231fb74f4e3c",
+            "text": {
+                "content": "北海老城"
+            }
+        },
+        {
+            "name": "hailingdao",
+            "position": [
+                111.911627,
+                21.617774            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7344362328525439522&logTag=860631ad011a9aa0fd08",
+            "text": {
+                "content": "海陵岛"
+            }
+        },
+        {
+            "name": "jinjianglidiaolou",
+            "position": [
+                112.525616,
+                22.258484            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7344680031190254134&logTag=ed55fc116b91b4b47c7a",
+            "text": {
+                "content": "锦江里碉楼"
+            }
+        },
+        {
+            "name": "hengqindao",
+            "position": [
+                113.542451,
+                22.090135            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7344680031190254134&logTag=ed55fc116b91b4b47c7a",
+            "text": {
+                "content": "横琴岛"
+            }
+        },
+        {
+            "name": "chaozhougucheng",
+            "position": [
+                116.647995,
+                23.665254            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7346799380156678671&logTag=5158afd7d520407ac718",
+            "text": {
+                "content": "潮州古城"
+            }
+        },
+        {
+            "name": "yunshuiyao",
+            "position": [
+                117.095227,
+                24.66578            
+            ],
+            "vedio_url": "https://www.ixigua.com/7337330949124391474?id=7347236423918944779&logTag=c41e618a41a771233d64",
+            "text": {
+                "content": "云水谣"
+            }
         }
+
     ]
 }

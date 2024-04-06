@@ -16,8 +16,8 @@ onMounted(() => {
       map = new AMap.Map("container", {
         // 设置地图容器id
         viewMode: "3D", // 是否为3D地图模式
-        zoom: 8, // 初始化地图级别
-        center: [120.270265,30.171213], // 初始化地图中心点位置
+        zoom: 6, // 初始化地图级别
+        center: [120.270265,28.171213], // 初始化地图中心点位置
         layers: [
           // 卫星
           new AMap.TileLayer.Satellite(),
