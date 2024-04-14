@@ -329,6 +329,50 @@
             "text": {
                 "content": "云水谣"
             }
+        },
+        {
+            "name": "lanting",
+            "position": [
+                120.499868,
+                29.926031            
+            ],
+            "vedio_url": "https://www.ixigua.com/7356247455287116327?logTag=e3683c2dca6cd18ec71c",
+            "text": {
+                "content": "兰亭"
+            }
+        },
+        {
+            "name": "dalianziranbowuguan",
+            "position": [
+                121.56147,
+                38.870375            
+            ],
+            "vedio_url": "https://www.ixigua.com/7249749060586832423?logTag=3bddaa65a86d562214ec",
+            "text": {
+                "content": "大连自然博物馆"
+            }
+        },
+        {
+            "name": "xinghaiguangchang",
+            "position": [
+                121.588001,
+                38.882051            
+            ],
+            "vedio_url": "https://www.ixigua.com/7249730285196345868?id=7253266859661885987",
+            "text": {
+                "content": "星海广场"
+            }
+        },
+        {
+            "name": "203",
+            "position": [
+                121.20639,
+                38.82538            
+            ],
+            "vedio_url": "https://www.ixigua.com/7249730285196345868?id=7252698799628354108&logTag=6ccb4fc778642dcd4193",
+            "text": {
+                "content": "二0三景区"
+            }
         }
 
     ]
