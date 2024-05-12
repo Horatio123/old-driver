@@ -373,6 +373,61 @@
             "text": {
                 "content": "二0三景区"
             }
+        },
+        {
+            "name": "dongfanglvzhou",
+            "position": [
+                121.018568,
+                31.099364            
+            ],
+            "vedio_url": "https://www.ixigua.com/7357292956732097034?logTag=277362b6edda8bc854e6",
+            "text": {
+                "content": "东方绿舟"
+            }
+        },
+        {
+            "name": "zhujiajiao",
+            "position": [
+                121.055097,
+                31.110989            
+            ],
+            "vedio_url": "https://www.ixigua.com/7357365781765554697?logTag=f7864ca5deabe76670e1",
+            "text": {
+                "content": "朱家角"
+            }
+        },
+        {
+            "name": "yujigongyuan",
+            "position": [
+                120.282914,
+                30.180868            
+            ],
+            "vedio_url": "https://www.ixigua.com/7360278177513636391?logTag=d8870a1531f5745049c0",
+            "text": {
+                "content": "余暨公园"
+            }
+        },
+        {
+            "name": "westlane",
+            "position": [
+                120.255547,
+                30.165469            
+            ],
+            "vedio_url": "https://www.ixigua.com/7363551976568652297?logTag=925da48ea597386f58a9",
+            "text": {
+                "content": "西湘里"
+            }
+        },
+        {
+            "name": "xixiaojiang",
+            "position": [
+                120.396341,
+                30.144976            
+            ],
+            "vedio_url": "https://www.ixigua.com/7366621046339961370?logTag=90e02501c4be38c493de",
+            "text": {
+                "content": "西小江绿道"
+            }
         }
 
     ]
